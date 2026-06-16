@@ -44,6 +44,8 @@ This project explores how optimization techniques can be applied to a completely
 
 ### Step 1: Collect Data
 
+Google form used : https://docs.google.com/forms/d/e/1FAIpQLSfxQ22DjXbBSaMfWzoY3nDYCMSGQmaDfoFqPUOJWbJqdTtEow/viewform?usp=header
+
 Students answered a Google Form containing questions about their:
 
 * Personality
