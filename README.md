@@ -53,6 +53,8 @@ Students answered a Google Form containing questions about their:
 * Lifestyle
 * Preferences
 
+The google form response sheet column names were changed manually, for that check the excel file passed as input in notebook. the google response sheet columns must be changed so the script works correctly
+
 ### Step 2: Build a Compatibility Matrix
 
 Every student was compared with every other student.
